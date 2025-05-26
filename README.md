@@ -1,15 +1,30 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: Smart Parking Solutions: Redefining Urban Mobility
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. Sahib Singh
+2. Saumya Sinha
+3. Vanshika Jaiswal
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/cse-kiet/PCSE25-54
+cd
+```
+### 2. Install Flutter SDK
+### 3. Verify Flutter Setup
+```
+flutter doctor
+```
+### 4. Install Project Dependencies
+```
+flutter pub get
+```
+### 5. Run the App
+```
+flutter run
+```
 
 ## Checklist:
 1. Final Project Report
@@ -18,6 +33,4 @@
 4. Synopsis
 5. Final Presentation
 6. Source Code
-7. Database dump (.sql file)
-8. If a web project, then a Docker file for deployment
-9. README (This file)
+7. README (This file)
